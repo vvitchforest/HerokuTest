@@ -34,7 +34,7 @@ let notes = [
 
   {
     id: 5,
-    content: "heroku intgration",
+    content: "testing scripts",
     date: "2021-01-10T19:20:14.298Z",
     important: true,
   },
